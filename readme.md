@@ -9,7 +9,7 @@ $ npm-install get-arguments-lib
 ### Usage
 
 ``` bash
-    node <your js  file> --port 3004 
+$ node <your js  file> --port 3004 
 ```
 
 
