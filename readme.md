@@ -1,9 +1,15 @@
 # Get arguments as a dictonary object
 
-## Instalation
+### Instalation
 
+#### npm 
 ```bash
-$ npm-install get-arguments-lib
+$ npm install get-arguments-lib --save
+```
+
+#### yarn
+```bash
+$ yarn add get-arguments-lib -S
 ```
 
 ### Usage
