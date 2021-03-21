@@ -6,5 +6,5 @@
   "repository": "https://github.com/ranwahle/get-arguments-lib.git",
   "author": "Ran Wahle <ran.wahle@gmail.com>",
   "license": "MIT",
-  "types": ./"get-arguments-lib.d.ts"
+  "types": "./get-arguments-lib.d.ts"
 }
