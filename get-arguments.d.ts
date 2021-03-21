@@ -6,4 +6,4 @@
 * @param argumentsArray - arguments array (as received from porcess.argv)
 * @return a key value object with seitchname and switch value
 */
-function getArguments(argumentsArray: string[]);
+export function getArguments(argumentsArray: string[]);
