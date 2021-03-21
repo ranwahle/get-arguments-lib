@@ -1,10 +1,10 @@
 {
   "name": "get-arguments-lib",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Gets argument as switches with double dash, and return a dictionary object",
   "main": "get-arguments.js",
   "repository": "https://github.com/ranwahle/get-arguments-lib.git",
   "author": "Ran Wahle <ran.wahle@gmail.com>",
   "license": "MIT",
-  "types": "get-arguments-lib.d.ts"
+  "types": "get-arguments-lib.ts"
 }
